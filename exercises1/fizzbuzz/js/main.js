@@ -22,7 +22,9 @@ function fizzBuzz() {
         console.log("Buzz");
       } else if (num % 3 == 0) {
         console.log("Fizz");
-      }
+      } else {
+      console.log(num);
+    }
     */
   }
 }
